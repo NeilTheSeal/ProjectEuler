@@ -1,7 +1,3 @@
-import math
-import scipy
-import numpy
-
 list1 = [1]
 list2 = [1, 1]
 
