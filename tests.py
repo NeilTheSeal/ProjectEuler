@@ -1,5 +1,3 @@
 jah = "okay then"
 
-a = jah.find('ayf')
-
-print(a)
+print(200*375*425)
